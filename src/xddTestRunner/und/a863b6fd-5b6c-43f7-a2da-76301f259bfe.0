@@ -892,13 +892,14 @@ mam9GBrFhUODvdLr6e3HWk6+w5qhvEgBKvO9i8RNJZOZbt2wavZXrx5516k1ryzW
 {1,0},
 {1,
 {2}
-},0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,2,2,1,1,0,0,0,1,2,2,0,1,1,
+},0,1,1,0,0,0,0,0,0,3,0,0,1,1,1,1,0,1,2,2,1,1,0,0,0,1,2,2,0,1,1,
 {1,
 {6}
 },
 {4,3,
 {0},"",-1,-1,0,
 {
+<<<<<<< HEAD:src/xddTestRunner/und/a863b6fd-5b6c-43f7-a2da-76301f259bfe.0
 {#base64:iVBORw0KGgoAAAANSUhEUgAAAHAAAAAQCAYAAADOFPsRAAAACXBIWXMAAA7EAAAO
 xAGVKw4bAAAAB3RJTUUH3wkIDgYGUr9hfQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAM
 dEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRF
@@ -954,6 +955,63 @@ qcV731r9YT/H77dV794qzxzeF6Y488iZHSijfcWvprkzkmXXD811X6pM/PJEt3mC
 /Vnz/9ivn9kJ0Qofb3ylY9Mo5f/bALdL//pEXhqRILv2NTuGybZ/viv/27H/A/2R
 WhMgEG/VAAAAAElFTkSuQmCC}
 },0,""},
+=======
+{#base64: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}
+},0},
+>>>>>>> 60d7eb214365c50a1a9be038d2583c077c565b0f:src/xddTestRunner/und/ed07b230-8bf7-4423-b861-a31f23c7471f.0
 {3,4,
 {0}
 },
@@ -2133,8 +2191,11 @@ i970DXxgHCspVG9wDoliaofL23C6tMM6z4wPIN79BQ/5HU0rfcdKpIz+U71Zznqs
 &НаКлиенте
 Функция Плагин(Знач Идентификатор) Экспорт
 	
+<<<<<<< HEAD:src/xddTestRunner/und/a863b6fd-5b6c-43f7-a2da-76301f259bfe.0
 	// КэшФормПлагинов является структурой. Если обратиться значению по ключу, которого в структуре нет, то вызывается исключение.
 	// здесь лучше использовать предварительную проверку на наличие свойства у структуры, иначе появляется ошибка, что поле не обнаружено
+=======
+>>>>>>> 60d7eb214365c50a1a9be038d2583c077c565b0f:src/xddTestRunner/und/ed07b230-8bf7-4423-b861-a31f23c7471f.0
 	ОбъектПлагин = Неопределено;
 	ИдентификаторБезПрефиксовПодсистемы = ПолучитьИдентификаторБезПрефиксаПодсистемы(Идентификатор, Объект.ИспользуемыйПрефиксПодсистемы); 
 	Если КэшФормПлагинов.Свойство(ИдентификаторБезПрефиксовПодсистемы) Тогда
@@ -2348,10 +2409,14 @@ i970DXxgHCspVG9wDoliaofL23C6tMM6z4wPIN79BQ/5HU0rfcdKpIz+U71Zznqs
 				// Заполняем служебные поля, если они имеются
 				Если ПеременнаяСодержитСвойство(КонтекстВыполнения, ""ИспользуемыйПрефиксПодсистемы"") Тогда
 					КонтекстВыполнения.ИспользуемыйПрефиксПодсистемы = Объект.ИспользуемыйПрефиксПодсистемы; 	
+<<<<<<< HEAD:src/xddTestRunner/und/a863b6fd-5b6c-43f7-a2da-76301f259bfe.0
 				КонецЕсли;
 				//Если ПеременнаяСодержитСвойство(КонтекстВыполнения, ""ПодсистемаВстроенаВКонфигурацию"") Тогда
 				//	КонтекстВыполнения.ПодсистемаВстроенаВКонфигурацию = Объект.ЭтоВстроеннаяОбработка; 	
 				//КонецЕсли; 	
+=======
+				КонецЕсли;	
+>>>>>>> 60d7eb214365c50a1a9be038d2583c077c565b0f:src/xddTestRunner/und/ed07b230-8bf7-4423-b861-a31f23c7471f.0
 				Объект.ТекущийКонтейнер = КонтейнерДереваТестов;
 				ДочернийРезультатТестирования = ВыполнитьТестовыйМетод(КонтекстВыполнения, ДочернийУзел);
 				КонтейнерДереваТестов.Контекст = Объект.ТекущийКонтейнер.Контекст;
@@ -2522,7 +2587,18 @@ i970DXxgHCspVG9wDoliaofL23C6tMM6z4wPIN79BQ/5HU0rfcdKpIz+U71Zznqs
 Функция ВыполнитьТестовыйМетодНаСервере(Знач ОписаниеКонтекста, Знач ЭлементДереваТестов)
 	ОбъектНаСервере = ЭтотОбъектНаСервере();
 	
+<<<<<<< HEAD:src/xddTestRunner/und/a863b6fd-5b6c-43f7-a2da-76301f259bfe.0
 	КонтекстВыполнения = СоздатьОбъектПлагина(ОписаниеКонтекста.Идентификатор);
+=======
+	Если ОписаниеКонтекста.ЭтоВнутренняяОбработка Тогда
+		ЭтоОтчет = (Метаданные.Отчеты.Найти(ОписаниеКонтекста.Идентификатор) <> Неопределено);	
+	Иначе
+		ФайлОбработки = Новый Файл(ЭлементДереваТестов.Путь);
+		ЭтоОтчет = (НРег(ФайлОбработки.Расширение) = "".erf"");
+	КонецЕсли;
+	
+	КонтекстВыполнения = СоздатьОбъектПлагина(ОписаниеКонтекста.Идентификатор, ОписаниеКонтекста.ЭтоВнутренняяОбработка, ЭтоОтчет);
+>>>>>>> 60d7eb214365c50a1a9be038d2583c077c565b0f:src/xddTestRunner/und/ed07b230-8bf7-4423-b861-a31f23c7471f.0
 	КонтекстВыполнения.Инициализация(ОбъектНаСервере);
 	
 	// Заполняем служебные поля, если они имеются
@@ -2834,18 +2910,24 @@ i970DXxgHCspVG9wDoliaofL23C6tMM6z4wPIN79BQ/5HU0rfcdKpIz+U71Zznqs
 &НаКлиенте
 Процедура ПодключитьВнешнююОбработку(ФайлОбработки) Экспорт
 	Если ПодключенныеВнешниеОбработки.Получить(ФайлОбработки.ИмяБезРасширения) = Неопределено Тогда
+		
+		ЭтоОтчет = (НРег(ФайлОбработки.Расширение) = "".erf"");
 		АдресХранилища = """";
 		ПоместитьФайл(АдресХранилища, ФайлОбработки.ПолноеИмя, , Ложь, ЭтаФорма.УникальныйИдентификатор);
 		
-		ПодключитьФайлОбработкиНаСервере(АдресХранилища, ФайлОбработки.ИмяБезРасширения);
+		ПодключитьФайлОбработкиНаСервере(АдресХранилища, ФайлОбработки.ИмяБезРасширения, ЭтоОтчет);
 		
 		ПодключенныеВнешниеОбработки.Вставить(ФайлОбработки.ИмяБезРасширения, Истина);
 	КонецЕсли;
 КонецПроцедуры
 
 &НаСервереБезКонтекста
-Процедура ПодключитьФайлОбработкиНаСервере(Знач АдресХранилища, Знач ИдентификаторОбработки)
-	ВнешниеОбработки.Подключить(АдресХранилища, ИдентификаторОбработки, Ложь);
+Процедура ПодключитьФайлОбработкиНаСервере(Знач АдресХранилища, Знач ИдентификаторОбработки, ЭтоОтчет = Ложь)
+	Если ЭтоОтчет = Истина Тогда
+		ВнешниеОтчеты.Подключить(АдресХранилища, ИдентификаторОбработки, Ложь);
+	Иначе
+		ВнешниеОбработки.Подключить(АдресХранилища, ИдентификаторОбработки, Ложь);
+	КонецЕсли;
 КонецПроцедуры
 
 &НаКлиенте
@@ -3025,11 +3107,19 @@ i970DXxgHCspVG9wDoliaofL23C6tMM6z4wPIN79BQ/5HU0rfcdKpIz+U71Zznqs
 КонецФункции
 
 &НаСервере
+<<<<<<< HEAD:src/xddTestRunner/und/a863b6fd-5b6c-43f7-a2da-76301f259bfe.0
 Функция СоздатьОбъектПлагина(Идентификатор)
 	
 	ОбъектНаСервере = ЭтотОбъектНаСервере();
 		
 	Возврат ОбъектНаСервере.СоздатьОбъектПлагина(Идентификатор);
+=======
+Функция СоздатьОбъектПлагина(Идентификатор, ВстроенаВКонфигурацию = Ложь, ЭтоОтчет = Ложь)
+	
+	ОбъектНаСервере = ЭтотОбъектНаСервере();
+		
+	Возврат ОбъектНаСервере.СоздатьОбъектПлагина(Идентификатор, ВстроенаВКонфигурацию, ЭтоОтчет);
+>>>>>>> 60d7eb214365c50a1a9be038d2583c077c565b0f:src/xddTestRunner/und/ed07b230-8bf7-4423-b861-a31f23c7471f.0
 	
 КонецФункции
 

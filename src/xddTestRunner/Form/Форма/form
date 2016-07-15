@@ -364,6 +364,7 @@ i970DXxgHCspVG9wDoliaofL23C6tMM6z4wPIN79BQ/5HU0rfcdKpIz+U71Zznqs
 {4,3,
 {0},"",-1,-1,0,
 {
+<<<<<<< HEAD
 {#base64:iVBORw0KGgoAAAANSUhEUgAAAHAAAAAQCAYAAADOFPsRAAAACXBIWXMAAA7EAAAO
 xAGVKw4bAAAAB3RJTUUH3wkIDgYGUr9hfQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAM
 dEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRF
@@ -421,6 +422,65 @@ WhMgEG/VAAAAAElFTkSuQmCC}
 },0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},16,16,d2314b5d-8da4-4e0f-822b-45e7500eae09,
+=======
+{#base64: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}
+},0},
+{3,0,
+{0},"",-1,-1,1,0},16,16,d2314b5d-8da4-4e0f-822b-45e7500eae09,
+>>>>>>> 60d7eb214365c50a1a9be038d2583c077c565b0f
 {3,4,
 {0}
 },
@@ -740,7 +800,11 @@ CYGcwWBPZwKqGvLSfenfygT8jsON3BLEihiIbw==},0}
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,0},0,0},9,2,0,0,1,1,
 {5,d4746b64-45af-49b5-a280-c2206705887b,9,1,1,
+<<<<<<< HEAD
 {6,e4a4b7df-7464-4ffb-a2a5-d4e78e7c7c40,1,e1692cc2-605b-4535-84dd-28440238746c,
+=======
+{6,d3594f71-1f62-4eaa-bb07-ee1a13be4998,1,e1692cc2-605b-4535-84dd-28440238746c,
+>>>>>>> 60d7eb214365c50a1a9be038d2583c077c565b0f
 {3,"КнопкаВыполнитьВыделенныеТестыНажатие",
 {1,"КнопкаВыполнитьВыделенныеТестыНажатие",
 {1,1,
@@ -846,7 +910,11 @@ gg==}
 },0,""},
 {0,118,8}
 },1,
+<<<<<<< HEAD
 {5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,1,e4a4b7df-7464-4ffb-a2a5-d4e78e7c7c40,
+=======
+{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,1,d3594f71-1f62-4eaa-bb07-ee1a13be4998,
+>>>>>>> 60d7eb214365c50a1a9be038d2583c077c565b0f
 {8,"ВыполнитьТест",0,4,
 {1,2,
 {"#","Выполнить тест"},
@@ -1192,14 +1260,22 @@ RU5ErkJggg==}
 },0,""},
 {0,0,0},0,2,
 {5,4a024427-3a7c-4cdb-b06d-ea9b500fdeda,27,1,1,
+<<<<<<< HEAD
 {6,831dc95c-81f4-46cc-9216-90b36eaad84f,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+=======
+{6,eb8dd50c-f147-4b62-80a1-171f30af71fe,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+>>>>>>> 60d7eb214365c50a1a9be038d2583c077c565b0f
 {1,4a024427-3a7c-4cdb-b06d-ea9b500fdeda,26},0},2,
 {5,4a024427-3a7c-4cdb-b06d-ea9b500fdeda,26,1,0,
 {0,0,
 {0}
 }
 },
+<<<<<<< HEAD
 {5,31946946-0a9b-40a2-95cf-82f200778341,0,0,1,831dc95c-81f4-46cc-9216-90b36eaad84f,
+=======
+{5,31946946-0a9b-40a2-95cf-82f200778341,0,0,1,eb8dd50c-f147-4b62-80a1-171f30af71fe,
+>>>>>>> 60d7eb214365c50a1a9be038d2583c077c565b0f
 {8,"ИсторияЗагрузкиТестов",0,1,
 {1,1,
 {"ru","История загрузки тестов"}
@@ -1327,9 +1403,32 @@ AAAASUVORK5CYII=}
 },0,""},
 {0,0,0},0,2,
 {5,41c23139-b710-4b93-a93e-1a3fe9843cfe,5,1,3,
+<<<<<<< HEAD
 {6,2361abad-a8c9-4fdc-a6fb-95e42ebf8764,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
 {1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
 {6,911c3ad9-9f31-460c-93d3-3998a65bb928,1,e1692cc2-605b-4535-84dd-28440238746c,
+=======
+{6,0eddd7cc-9cff-409d-a156-0d04fc40d296,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
+{6,eb4033ab-8924-45ac-b5a7-9ba3807e100e,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"КнопкаПерезагрузитьПерезагрузитьБраузерТестирования",
+{1,"КнопкаПерезагрузитьПерезагрузитьБраузерТестирования",
+{1,1,
+{"ru","Перезагрузить браузер тестирования"}
+},
+{1,1,
+{"ru","Перезагрузить браузер тестирования"}
+},
+{1,1,
+{"ru","Перезагрузить браузер тестирования"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},0},
+{6,9563860a-4345-466f-a621-c905d3d39a33,1,e1692cc2-605b-4535-84dd-28440238746c,
+>>>>>>> 60d7eb214365c50a1a9be038d2583c077c565b0f
 {3,"ПерезагрузитьПоследниеТестыПоИстории",
 {1,"ПерезагрузитьПоследниеТестыПоИстории",
 {1,1,
@@ -1383,6 +1482,7 @@ A5NmwKFC0/PLtq62ovdaPRQix06qmJuALSJ74mtGzHnBalirNn1GZfmK3njMDXCJ
 BguK5OCb5OCdsRjPzXIg/qV4LWdl5AGyvOJa/LLzgL7Lh5bic2AxDUSCuJ8sg4fZ
 fpcIxAUgkUoIHsoxHlpxsReNeI9EIrDkX2QLIpCML+Wkf5z+LcAAUD/gDNueXkgA
 AAAASUVORK5CYII=}
+<<<<<<< HEAD
 },0,""}
 },
 {6,708081eb-0c6e-4ebd-9440-cdccc7f35f4c,1,e1692cc2-605b-4535-84dd-28440238746c,
@@ -1411,6 +1511,19 @@ AAAASUVORK5CYII=}
 {1,1,
 {"ru","Действие"}
 },0,41c23139-b710-4b93-a93e-1a3fe9843cfe,2,1e2,2,0,1,0,0,0,0},708081eb-0c6e-4ebd-9440-cdccc7f35f4c,
+=======
+},0}
+},1,
+{5,31946946-0a9b-40a2-95cf-82f200778341,0,0,3,9563860a-4345-466f-a621-c905d3d39a33,
+{8,"ПерезагрузитьТесты",0,1,
+{1,1,
+{"ru","Перезагрузить тесты"}
+},1,41c23139-b710-4b93-a93e-1a3fe9843cfe,1,1e2,0,0,1,0,0,0,0},0eddd7cc-9cff-409d-a156-0d04fc40d296,
+{8,"Разделитель",0,1,
+{1,1,
+{"ru","Действие"}
+},0,41c23139-b710-4b93-a93e-1a3fe9843cfe,2,1e2,2,0,1,0,0,0,0},eb4033ab-8924-45ac-b5a7-9ba3807e100e,
+>>>>>>> 60d7eb214365c50a1a9be038d2583c077c565b0f
 {8,"ПерезагрузитьБраузерТестирования",0,1,
 {1,1,
 {"#","Перезагрузить браузер тестирования"}
@@ -2038,6 +2151,7 @@ jdPrfwG2yJrgafgYZAAAAABJRU5ErkJggg==}
 {0},"",-1,-1,1,0,""},
 {0,0,0},0,2,
 {5,28c47454-3a17-4ec8-b47f-d5008bf3ea41,5,1,3,
+<<<<<<< HEAD
 {6,59a4d530-6efd-4395-b6e5-e0ff35c80905,1,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"КнопкаИнструментыПоказатьГУИД",
 {1,"КнопкаИнструментыПоказатьГУИД",
@@ -2073,6 +2187,9 @@ jdPrfwG2yJrgafgYZAAAAABJRU5ErkJggg==}
 }
 },0},
 {6,95c0c997-a0f1-40c0-8b83-34cc84e4df49,1,e1692cc2-605b-4535-84dd-28440238746c,
+=======
+{6,6e3cd77c-7c6e-4d8f-9d68-431947025a27,1,e1692cc2-605b-4535-84dd-28440238746c,
+>>>>>>> 60d7eb214365c50a1a9be038d2583c077c565b0f
 {3,"КнопкаИнструментыГенераторМакетовДанных",
 {1,"КнопкаИнструментыГенераторМакетовДанных",
 {1,1,
@@ -2095,6 +2212,7 @@ jdPrfwG2yJrgafgYZAAAAABJRU5ErkJggg==}
 {1,1,
 {"ru","Генератор макетов данных на базе реальных данных"}
 },
+<<<<<<< HEAD
 {4,1,
 {0,01ec9d9a-7497-4d88-b93f-066c633a4866},"",-1,-1,1,0,""}
 },1,
@@ -2107,6 +2225,54 @@ jdPrfwG2yJrgafgYZAAAAABJRU5ErkJggg==}
 {1,1,
 {"#","Показать ГУИД"}
 },0,28c47454-3a17-4ec8-b47f-d5008bf3ea41,2,1e2,0,0,1,0,0,0,0},1dce85d4-69ea-4527-b0af-22a01d735d41,
+=======
+{3,1,
+{0,01ec9d9a-7497-4d88-b93f-066c633a4866},"",-1,-1,1,0}
+},
+{6,36ee916f-5b94-49b2-9f4e-5ff12a36aafd,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"КнопкаИнструментыКонвертерТестов",
+{1,"КнопкаИнструментыКонвертерТестов",
+{1,1,
+{"ru","Конвертер тестов"}
+},
+{1,1,
+{"ru","Конвертер тестов"}
+},
+{1,1,
+{"ru","Конвертер тестов"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},0},
+{6,b6affdd3-56e0-4f22-80e2-5a33812ad712,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"КнопкаИнструментыПоказатьГУИД",
+{1,"КнопкаИнструментыПоказатьГУИД",
+{1,1,
+{"ru","Показать ГУИД"}
+},
+{1,1,
+{"ru","Показать ГУИД"}
+},
+{1,1,
+{"ru","Показать ГУИД"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},0},1,
+{5,31946946-0a9b-40a2-95cf-82f200778341,0,0,3,6e3cd77c-7c6e-4d8f-9d68-431947025a27,
+{8,"ГенераторМакетовДанных",0,1,
+{1,1,
+{"#","Генератор макетов данных"}
+},0,28c47454-3a17-4ec8-b47f-d5008bf3ea41,1,1e2,0,0,1,0,0,0,0},b6affdd3-56e0-4f22-80e2-5a33812ad712,
+{8,"ПоказатьГУИД",0,1,
+{1,1,
+{"#","Показать ГУИД"}
+},0,28c47454-3a17-4ec8-b47f-d5008bf3ea41,2,1e2,0,0,1,0,0,0,0},36ee916f-5b94-49b2-9f4e-5ff12a36aafd,
+>>>>>>> 60d7eb214365c50a1a9be038d2583c077c565b0f
 {8,"КонвертерТестов",0,1,
 {1,1,
 {"ru","Конвертер тестов в формат 4-й версии"}
@@ -2236,7 +2402,11 @@ jdPrfwG2yJrgafgYZAAAAABJRU5ErkJggg==}
 {0}
 }
 }
+<<<<<<< HEAD
 },859,552,1,0,1,4,4,1319,859,552,96},
+=======
+},859,552,1,0,1,4,4,1312},
+>>>>>>> 60d7eb214365c50a1a9be038d2583c077c565b0f
 {
 {1},27,
 {4,
